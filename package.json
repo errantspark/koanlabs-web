@@ -1,0 +1,22 @@
+{
+  "name": "koanlabs-web",
+  "version": "0.0.0",
+  "description": "koanlabs-web ============",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "~1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/errantspark/koanlabs-web.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/errantspark/koanlabs-web/issues"
+  }
+}
